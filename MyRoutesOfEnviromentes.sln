@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoutesOfEnviromentes.Domain", "MyRoutesOfEnviromentes.Domain\MyRoutesOfEnviromentes.Domain.csproj", "{8192D448-CC75-4D21-A349-DF91197E5C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoutesOfEnviroments.Application", "MyRoutesOfEnviroments.Application\MyRoutesOfEnviroments.Application.csproj", "{89BE5608-9300-4F74-BE24-EEC02434A8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8192D448-CC75-4D21-A349-DF91197E5C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8192D448-CC75-4D21-A349-DF91197E5C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8192D448-CC75-4D21-A349-DF91197E5C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8192D448-CC75-4D21-A349-DF91197E5C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BE5608-9300-4F74-BE24-EEC02434A8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BE5608-9300-4F74-BE24-EEC02434A8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BE5608-9300-4F74-BE24-EEC02434A8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BE5608-9300-4F74-BE24-EEC02434A8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC8C045-5214-43F1-A578-98386B439EC0}
+	EndGlobalSection
+EndGlobal
